@@ -1,0 +1,12 @@
+# Configuração e credenciais locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Arquivos temporários do sistema e editores
+.DS_Store
+Thumbs.db
+*.swp
+*~

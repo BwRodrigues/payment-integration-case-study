@@ -1,0 +1,11 @@
+{
+  "natureza": "representacao_conceitual",
+  "aviso": "Dados fictícios. Não é um payload oficial ou executável da Stripe.",
+  "cenario": "pagamento_unico",
+  "pedido": "pedido_ficticio_a",
+  "moeda": "BRL",
+  "valor_em_centavos": 1000,
+  "meio_de_pagamento": "pix",
+  "recorrencia": null,
+  "descricao": "Uma compra avulsa, sem agendamento de ciclos futuros neste exemplo."
+}

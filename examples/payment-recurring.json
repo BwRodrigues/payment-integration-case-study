@@ -1,0 +1,15 @@
+{
+  "natureza": "representacao_conceitual",
+  "aviso": "Dados fictícios. Não é um payload oficial ou executável da Stripe. Não demonstra suporte a Pix recorrente em uma integração.",
+  "cenario": "faturamento_recorrente",
+  "plano": "plano_ficticio_trimestral",
+  "moeda": "BRL",
+  "valor_por_ciclo_em_centavos": 3000,
+  "recorrencia": {
+    "unidade": "mes",
+    "intervalo": 3
+  },
+  "meio_de_pagamento": "nao_especificado",
+  "autorizacao_bancaria": "nao_representada",
+  "descricao": "Um plano prevê faturamento a cada três meses. Isso não comprova autorização bancária nem pagamento de uma fatura futura."
+}
